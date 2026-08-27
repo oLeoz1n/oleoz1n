@@ -7,7 +7,7 @@
   <text x="25" y="35" class="title">Most Used Languages</text>
   <g transform="translate(25, 55)">
     <clipPath id="bar"><rect width="310" height="8" rx="4"/></clipPath>
-    <g clip-path="url(#bar)"><rect x="0.0" y="0" width="79.7" height="8" fill="#3178c6"/><rect x="79.7" y="0" width="66.4" height="8" fill="#f1e05a"/><rect x="146.1" y="0" width="53.2" height="8" fill="#178600"/><rect x="199.3" y="0" width="39.6" height="8" fill="#663399"/><rect x="238.9" y="0" width="23.0" height="8" fill="#3572A5"/><rect x="261.9" y="0" width="15.4" height="8" fill="#e34c26"/><rect x="277.3" y="0" width="15.1" height="8" fill="#b07219"/><rect x="292.4" y="0" width="10.2" height="8" fill="#A97BFF"/></g>
+    <g clip-path="url(#bar)"><rect x="0.0" y="0" width="79.7" height="8" fill="#3178c6"/><rect x="79.7" y="0" width="66.4" height="8" fill="#f1e05a"/><rect x="146.1" y="0" width="53.2" height="8" fill="#7355dd"/><rect x="199.3" y="0" width="39.6" height="8" fill="#663399"/><rect x="238.9" y="0" width="23.0" height="8" fill="#3572A5"/><rect x="261.9" y="0" width="15.4" height="8" fill="#e34c26"/><rect x="277.3" y="0" width="15.1" height="8" fill="#b07219"/><rect x="292.4" y="0" width="10.2" height="8" fill="#A97BFF"/></g>
   </g>
   <g transform="translate(25, 85)">
     <circle cx="5" cy="6" r="5" fill="#3178c6"/>
@@ -18,7 +18,7 @@
     <text x="16" y="10" class="lang">JavaScript <tspan fill="#768390">21.4%</tspan></text>
   </g>
   <g transform="translate(25, 133)">
-    <circle cx="5" cy="6" r="5" fill="#178600"/>
+    <circle cx="5" cy="6" r="5" fill="#7355dd"/>
     <text x="16" y="10" class="lang">C# <tspan fill="#768390">17.2%</tspan></text>
   </g>
   <g transform="translate(25, 157)">
